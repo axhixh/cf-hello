@@ -1,0 +1,4 @@
+applications:
+  - name: cf-hello
+    memory: 64M
+    buildpack: go_buildpack
